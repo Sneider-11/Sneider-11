@@ -155,7 +155,9 @@ En mi trabajo diario reviso inventarios, controles de asistencia y liquidaciones
   <img src="https://streak-stats.demolab.com?user=Sneider-11&background=0D1117&border=3B82F6&ring=B497FF&fire=7C5CFF&currStreakNum=FFFFFF&currStreakLabel=B497FF&sideNums=FFFFFF&sideLabels=B497FF&dates=8B949E&hide_border=false" alt="Racha" />
 </div>
 
-<!-- AQUÍ PUEDES AGREGAR LA SERPIENTE ANIMADA (opcional, ver snake.yml) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sneider-11/Sneider-11/output/github-snake.svg" alt="Serpiente de contribuciones" />
+</div>
 
 ---
 
