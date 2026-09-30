@@ -4,7 +4,7 @@
   Paleta: Negro #0D1117 · Lila #B497FF · Azul #3B82F6 · Blanco #FFFFFF
 
   ANTES DE SUBIRLO, reemplaza estas 3 cosas:
-    1) NN      → tu usuario de GitHub (aparece varias veces)
+    1) Sneider-11      → tu usuario de GitHub (aparece varias veces)
     2) https://www.linkedin.com/in/carlos-pe%C3%B1aloza-73863b362/?isSelfProfile=true     → la URL de tu perfil de LinkedIn
     3) karlossneider@gmail.com       → tu correo personal (no el corporativo)
   ============================================================
@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/carlos-pe%C3%B1aloza-73863b362/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
   <a href="https://x.com/NullGuard_11"><img src="https://img.shields.io/badge/@NullGuard__11-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/></a>
   <a href="mailto:karlossneider@gmail.com"><img src="https://img.shields.io/badge/Correo-0D1117?style=for-the-badge&logo=gmail&logoColor=B497FF" alt="Correo"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NN&label=Visitas&color=7C5CFF&style=for-the-badge" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=Sneider-11&label=Visitas&color=7C5CFF&style=for-the-badge" alt="Visitas"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@ En mi trabajo diario reviso inventarios, controles de asistencia y liquidaciones
       <h3>📦 StockIQ</h3>
       <p>App de auditoría de inventarios para móvil y web, con roles (Super Admin, Admin de tienda, Contador) y seguimiento de dispositivos en tiempo real para prevenir fraude.</p>
       <p><img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=B497FF"/></p>
-      <!-- Cuando lo publiques: <a href="https://github.com/NN/stockiq">Ver repositorio →</a> -->
+      <!-- Cuando lo publiques: <a href="https://github.com/Sneider-11/stockiq">Ver repositorio →</a> -->
     </td>
     <td width="50%" valign="top">
       <h3>🕒 Control de asistencia biométrica</h3>
@@ -147,12 +147,12 @@ En mi trabajo diario reviso inventarios, controles de asistencia y liquidaciones
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B497FF&icon_color=3B82F6&text_color=FFFFFF&ring_color=7C5CFF&custom_title=Mis%20estad%C3%ADsticas" alt="Estadísticas" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NN&layout=compact&hide_border=true&bg_color=0D1117&title_color=B497FF&text_color=FFFFFF&langs_count=6&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="Lenguajes" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sneider-11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B497FF&icon_color=3B82F6&text_color=FFFFFF&ring_color=7C5CFF&custom_title=Mis%20estad%C3%ADsticas" alt="Estadísticas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneider-11&layout=compact&hide_border=true&bg_color=0D1117&title_color=B497FF&text_color=FFFFFF&langs_count=6&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="Lenguajes" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NN&background=0D1117&border=3B82F6&ring=B497FF&fire=7C5CFF&currStreakNum=FFFFFF&currStreakLabel=B497FF&sideNums=FFFFFF&sideLabels=B497FF&dates=8B949E&hide_border=false" alt="Racha" />
+  <img src="https://streak-stats.demolab.com?user=Sneider-11&background=0D1117&border=3B82F6&ring=B497FF&fire=7C5CFF&currStreakNum=FFFFFF&currStreakLabel=B497FF&sideNums=FFFFFF&sideLabels=B497FF&dates=8B949E&hide_border=false" alt="Racha" />
 </div>
 
 <!-- AQUÍ PUEDES AGREGAR LA SERPIENTE ANIMADA (opcional, ver snake.yml) -->
